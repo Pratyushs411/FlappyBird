@@ -45,10 +45,11 @@ Avoid hitting the pipes or the ground to keep playing.
 The game gets progressively harder as you score more points.
 
 ## Screenshots
-![game](https://github.com/Pratyushs411/Flappybird/blob/master/WhatsApp%Image%2024-06-13%at%11.38.34.jpeg?raw=true)
-
-![gameover](https://github.com/Pratyushs411/Flappybird/blob/master/WhatsApp%Image%2024-06-13%at%11.52.21.jpeg?raw=true)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Pratyushs411/Flappybird/blob/master/image2.jpeg?raw=true" alt="Game Screenshot" style="width: 45%; margin-right: 5px;">
+  <img src="https://github.com/Pratyushs411/Flappybird/blob/master/image.jpeg?raw=true" alt="Game Over Screenshot" style="width: 45%; margin-left: 5px;">
+</div>
 
 ## Contact
-GitHub: [Pratyushs411](https://github.com/Pratyushs411)
-LinkedIn: [Pratyush Sharma](www.linkedin.com/in/pratyushsharma411)
+#### GitHub: [Pratyushs411](https://github.com/Pratyushs411)
+#### LinkedIn: [Pratyush Sharma](www.linkedin.com/in/pratyushsharma411)
