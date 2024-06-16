@@ -4,14 +4,6 @@ Flappy Bird in Flutter
 
 A Flutter implementation of the classic Flappy Bird game.
 
-## Table of Contents
-Introduction
-Features
-Installation
-Usage
-Screenshots
-Contact
-
 ## Introduction
 Flappy Bird is a simple yet addictive game where you navigate a bird through a series of pipes. This project is a Flutter-based version of the game, aimed at providing a fun and educational way to learn Flutter and game development.
 
