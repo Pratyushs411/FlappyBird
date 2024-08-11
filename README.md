@@ -13,23 +13,6 @@ Endless gameplay
 Score tracking
 Animated bird and obstacles
 Responsive design for various screen sizes
-Installation
-
-## Prerequisites
-Flutter SDK: [Installation Guide](https://docs.flutter.dev/get-started/install)
-An IDE such as Android Studio or Visual Studio Code
-
-## Steps
-1.Clone the repository:
-git clone https://github.com/Pratyushs411/FlappyBird.git
-
-2.Navigate to the project directory
-
-3.Install dependencies:
-flutter pub get
-
-4.Run the app:
-flutter run
 
 ## Usage
 Tap the screen to make the bird flap and navigate through the pipes.
